@@ -1,0 +1,25 @@
+table {
+    color:rgb(18, 11, 11);
+        
+}
+
+
+h1 {
+    color: black;
+    padding-left: 45vw; 
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+
+body {
+    background-position: center;
+    background-image: url(cwc2022copy.jpg);
+    background-attachment: fixed;
+}

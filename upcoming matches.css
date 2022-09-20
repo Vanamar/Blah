@@ -1,0 +1,62 @@
+p1 {
+    color:black;
+}
+
+p {
+    color:black;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+h4 {
+    padding-left: 40vw; 
+    color:black;
+    font-weight: 900;
+    font-size: x-large;
+
+}
+
+h3 {
+    padding-left: 45vw;
+    color:black;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+th {
+    color:black;
+}
+
+
+body {
+    background-color: rgb(64, 172, 157);
+    color:white;
+        
+}
+
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    ;
+}
+.bottom .btn {
+    background-color: rgba(153, 197, 233, 0.711);
+    padding: 3em 1.5em;
+    font-size: 2em;
+    color: rgb(16, 12, 12);
+    outline: none;
+    border: lawngreen;
+    cursor: pointer;
+    border-radius: 2em 2em 2em 2em;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    transform: translateX(-2px);
+    box-shadow: 0 5px 5px #00000040;
+}
+
+
+
